@@ -1,5 +1,5 @@
 //test case for development and production
-package com.tnsif.daytwentyfive.basictestcases.testsuiteclasses;
+package day25.basictestcases.testsuiteclasses;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;

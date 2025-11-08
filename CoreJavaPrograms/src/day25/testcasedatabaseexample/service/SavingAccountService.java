@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyfive.testcasedatabaseexample.service;
+package day25.testcasedatabaseexample.service;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

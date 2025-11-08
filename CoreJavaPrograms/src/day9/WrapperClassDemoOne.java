@@ -1,5 +1,5 @@
 //Program to demonstrate Command Line Arguments 
-package com.tnsif.daynine;
+package day9;
 
 public class WrapperClassDemoOne {
 

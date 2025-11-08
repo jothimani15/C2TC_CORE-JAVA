@@ -1,5 +1,5 @@
 //creating dynamic tests 
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.DynamicTest.dynamicTest;

@@ -1,5 +1,5 @@
 //Program to demonstrate first test case
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 import org.junit.jupiter.api.Test;
 

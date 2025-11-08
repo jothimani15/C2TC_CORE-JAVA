@@ -1,5 +1,5 @@
 //Program to demonstrate creating dynamic test cases
-package com.tnsif.daytwentyfive.testcases.v1.testcases;
+package day25.testcases.v1.testcases;
 
 import static org.junit.jupiter.api.Assertions.fail;
 

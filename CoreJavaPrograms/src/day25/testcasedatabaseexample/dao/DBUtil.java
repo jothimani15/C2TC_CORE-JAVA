@@ -1,5 +1,5 @@
 //Program to demonstrate Java Database Connectivity - DBUtil class 
-package com.tnsif.daytwentyfive.testcasedatabaseexample.dao;
+package day25.testcasedatabaseexample.dao;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

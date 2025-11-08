@@ -1,5 +1,5 @@
 //program to disable the test cases
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

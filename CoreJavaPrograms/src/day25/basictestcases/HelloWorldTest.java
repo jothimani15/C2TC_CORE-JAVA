@@ -1,5 +1,5 @@
 //program to demonstrate child test class
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 import org.junit.jupiter.api.Test;
 

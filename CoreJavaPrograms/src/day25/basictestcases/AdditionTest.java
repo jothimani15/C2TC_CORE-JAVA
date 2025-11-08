@@ -1,5 +1,5 @@
 //demonstrate JUnit life cycle 
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 
 import static org.junit.Assert.assertTrue;

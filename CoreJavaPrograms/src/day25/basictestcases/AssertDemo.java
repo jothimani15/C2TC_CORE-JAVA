@@ -1,5 +1,5 @@
 //Sample test cases based on assertion 
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNull;

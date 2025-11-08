@@ -1,5 +1,5 @@
 //Program to demonstrate PreparedStatement Interface
-package com.tnsif.twentythree.client;
+package day23.client;
 
 import com.tnsif.daytwentytwo.preparedstatementinterface.PreparedStatementDemo;
 

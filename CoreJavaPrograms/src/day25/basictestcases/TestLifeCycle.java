@@ -1,5 +1,5 @@
 //demonstrate JUnit life cycle 
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;

@@ -1,5 +1,5 @@
 //Program to demonstrate Test Cases - Bank Test Case to validate AccNo
-package com.tnsif.daytwentyfive.testcasedatabaseexample.test;
+package day25.testcasedatabaseexample.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 

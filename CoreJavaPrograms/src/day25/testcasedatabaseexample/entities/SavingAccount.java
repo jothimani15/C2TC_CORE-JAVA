@@ -1,5 +1,5 @@
 //Program to implement interface
-package com.tnsif.daytwentyfive.testcasedatabaseexample.entities;
+package day25.testcasedatabaseexample.entities;
 
 public class SavingAccount {
 	private int accNo;

@@ -1,5 +1,5 @@
 //Program to Demonstrate Database Transaction 
-package com.tnsif.daytwentyfive.testcasedatabaseexample.client;
+package day25.testcasedatabaseexample.client;
 
 import com.tnsif.daytwentyfive.testcasedatabaseexample.entities.SavingAccount;
 import com.tnsif.daytwentyfive.testcasedatabaseexample.service.SavingAccountService;

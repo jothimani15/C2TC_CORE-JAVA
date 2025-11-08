@@ -1,5 +1,5 @@
 //Program to demonstrate test case life cycle 
-package com.tnsif.daytwentyfive.testcases.v1.testcases;
+package day25.testcases.v1.testcases;
 
 
 import org.junit.jupiter.api.AfterAll;

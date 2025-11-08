@@ -1,5 +1,5 @@
 //Program to define functions for test cases
-package com.tnsif.daytwentyfive;
+package day25;
 
 public class NumberFunctions {
 

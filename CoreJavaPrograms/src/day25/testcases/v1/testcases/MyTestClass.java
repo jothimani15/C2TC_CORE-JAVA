@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyfive.testcases.v1.testcases;
+package day25.testcases.v1.testcases;
 import com.tnsif.daytwentyfive.testcases.v1.businesslogic.ArithmeticOperations;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

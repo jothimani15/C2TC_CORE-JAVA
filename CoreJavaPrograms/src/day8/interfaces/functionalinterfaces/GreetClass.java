@@ -1,5 +1,5 @@
 //Program to demonstrate FunctionalInterface - Child Class
-package com.tnsif.dayeight.interfaces.functionalinterfaces;
+package day8.interfaces.functionalinterfaces;
 
 public class GreetClass implements GreetInterface {
 

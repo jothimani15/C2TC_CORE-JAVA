@@ -1,5 +1,5 @@
 //Program to demonstrate Assumptions
-package com.tnsif.daytwentyfive.testcases.v1.testcases;
+package day25.testcases.v1.testcases;
 
 import java.util.function.BooleanSupplier;
 

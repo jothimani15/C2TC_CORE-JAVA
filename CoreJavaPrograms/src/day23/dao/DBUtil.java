@@ -1,5 +1,5 @@
 //Program to demonstrate Database Setting
-package com.tnsif.twentythree.dao;
+package day23.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

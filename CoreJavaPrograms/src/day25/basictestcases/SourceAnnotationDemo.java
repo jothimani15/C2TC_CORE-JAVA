@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
 

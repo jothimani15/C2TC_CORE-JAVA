@@ -1,5 +1,5 @@
 //program to demonstrate Test Cases
-package com.tnsif.daytwentyfive;
+package day25;
 
 import static org.junit.jupiter.api.Assertions.*;
 

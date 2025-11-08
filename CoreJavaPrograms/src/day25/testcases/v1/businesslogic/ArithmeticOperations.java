@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyfive.testcases.v1.businesslogic;
+package day25.testcases.v1.businesslogic;
 
 public class ArithmeticOperations {
 	public static int getSquare(int no) {

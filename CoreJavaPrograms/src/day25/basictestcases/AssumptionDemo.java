@@ -1,5 +1,5 @@
 //sample test cases based on Assumptions
-package com.tnsif.daytwentyfive.basictestcases;
+package day25.basictestcases;
 import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.Test;
 

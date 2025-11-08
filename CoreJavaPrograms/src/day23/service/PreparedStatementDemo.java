@@ -1,5 +1,5 @@
 //Program to demonstrate PreparedStatement Interface
-package com.tnsif.twentythree.service;
+package day23.service;
 
 import java.sql.Connection;
 
