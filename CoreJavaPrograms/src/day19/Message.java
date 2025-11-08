@@ -1,4 +1,4 @@
-package com.tnsif.daynineteen;
+package day19;
 
 @FunctionalInterface
 public interface Message{  

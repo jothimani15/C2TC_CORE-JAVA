@@ -1,6 +1,6 @@
 //Program to demonstrate List collection for user defined objects and 
 //sort elements using comparable and comparator
-package com.tnsif.dayfifteen.userdefinedobjects.comparableandcomparator;
+package day15;
 
 import java.util.ArrayList;
 import java.util.Collections;

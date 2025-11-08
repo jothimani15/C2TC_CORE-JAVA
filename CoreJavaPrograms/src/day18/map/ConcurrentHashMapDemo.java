@@ -1,5 +1,5 @@
 //Java program to demonstrate working of ConcurrentHashMap
-package com.tnsif.dayeighteen.map;
+package day18;
 
 import java.util.concurrent.*;
 

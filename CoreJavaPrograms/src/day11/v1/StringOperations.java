@@ -1,5 +1,5 @@
 //Program to handle exceptions
-package com.tnsif.dayeleven.v1;
+package day11;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

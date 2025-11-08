@@ -1,5 +1,5 @@
 //Define an entity Employee
-package com.tnsif.daytwenty.v1;
+package day20;
 
 public class Employee {
 	private int empId;

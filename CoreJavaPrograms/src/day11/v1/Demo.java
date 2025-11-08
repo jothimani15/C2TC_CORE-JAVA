@@ -1,5 +1,5 @@
 //Program without exception handling
-package com.tnsif.dayeleven.v1;
+package day11;
 public class Demo {
 
 	public static void main(String[] args) {

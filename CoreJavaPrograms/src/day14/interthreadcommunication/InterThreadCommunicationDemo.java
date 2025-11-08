@@ -1,5 +1,5 @@
 //Program to demonstrate inter-thread communication
-package com.tnsif.dayfourteen.interthreadcommunication;
+package day14;
 
 public class InterThreadCommunicationDemo {
 	public static void main(String[] args) {

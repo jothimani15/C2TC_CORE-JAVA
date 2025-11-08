@@ -1,5 +1,5 @@
 //Program to demonstrate HashMap class
-package com.tnsif.dayeighteen.map;
+package day18;
 import java.util.*;
 
 import com.tnsif.dayeighteen.Student;

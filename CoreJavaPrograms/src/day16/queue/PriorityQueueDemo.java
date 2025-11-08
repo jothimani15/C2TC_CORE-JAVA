@@ -1,5 +1,5 @@
 //Program to demonstrate a Priority Queue
-package com.tnsif.daysixteen.queue;
+package day16;
 
 import java.util.Iterator;
 import java.util.PriorityQueue;

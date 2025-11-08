@@ -1,6 +1,6 @@
 //program to demonstrate finally block
 
-package com.tnsif.dayeleven.finallyblock;
+package day11;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

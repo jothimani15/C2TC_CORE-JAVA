@@ -1,5 +1,5 @@
 //Program to demonstrate scrollable and updatable resultset
-package com.tnsif.daytwentytwo.v1.employeedb;
+package day22;
 
 import java.sql.SQLException;
 

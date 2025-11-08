@@ -1,4 +1,4 @@
-package com.tnsif.daytwelve;
+package day12;
 
 import java.util.Arrays;
 

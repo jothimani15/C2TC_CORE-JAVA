@@ -1,5 +1,5 @@
 //Program to demonstrate creating Entity class
-package com.tnsif.dayfifteen.generics;
+package day15;
 
 public class Person implements Comparable<Person>{
 	private String name;

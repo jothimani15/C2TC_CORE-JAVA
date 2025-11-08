@@ -1,5 +1,5 @@
 //Program to demonstrate creating generic class
-package com.tnsif.dayfifteen.generics;
+package day15;
 //Sender-Generic Class
 public class Sender<T>{
 	private T message;

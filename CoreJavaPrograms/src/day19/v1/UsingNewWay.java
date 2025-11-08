@@ -1,6 +1,6 @@
 //Program to demonstrate lambda expression
 
-package com.tnsif.daynineteen.v1;
+package day19;
 
 public class UsingNewWay {
 

@@ -1,5 +1,5 @@
 //Program to demonstrate generic interface
-package com.tnsif.dayfifteen.generics;
+package day15;
 
 //Generic Interface
 public interface MinMax<T extends Comparable<T>> {

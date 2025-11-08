@@ -1,5 +1,5 @@
 //Program to demonstrate Stream API 
-package com.tnsif.daytwenty;
+package day20;
 
 import java.util.Arrays;
 import java.util.List;

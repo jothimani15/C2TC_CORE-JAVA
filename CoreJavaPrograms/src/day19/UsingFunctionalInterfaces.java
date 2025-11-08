@@ -1,5 +1,5 @@
 //Program to demonstrate Types of Functional Interfaces 
-package com.tnsif.daynineteen;
+package day19;
 
 import java.util.function.BiFunction;
 import java.util.function.Consumer;

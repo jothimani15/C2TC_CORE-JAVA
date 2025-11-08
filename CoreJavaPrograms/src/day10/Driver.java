@@ -1,5 +1,5 @@
 //Program to demonstrate array operations
-package com.tnsif.dayten;
+package day10;
 
 //Driver class
 public class Driver {

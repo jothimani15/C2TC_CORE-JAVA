@@ -1,5 +1,5 @@
 //Program to Demonstrate User Define Annotation - SmartPhone
-package com.tnsif.daytwentyone.userdefinedannotation;
+package day21;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;

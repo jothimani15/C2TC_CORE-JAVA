@@ -1,5 +1,5 @@
 //Program to demonstrate Statement Interface
-package com.tnsif.daytwentytwo.statementinterface;
+package day22;
 
 
 //import java.sql.*;

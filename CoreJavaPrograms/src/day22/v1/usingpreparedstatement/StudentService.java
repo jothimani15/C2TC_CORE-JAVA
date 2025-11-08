@@ -1,5 +1,5 @@
 //Program to define Service class for DML operation on student table
-package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
+package day22;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

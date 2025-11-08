@@ -1,5 +1,5 @@
 //Program to define DBUtil class for Database Connectivity
-package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
+package day22;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

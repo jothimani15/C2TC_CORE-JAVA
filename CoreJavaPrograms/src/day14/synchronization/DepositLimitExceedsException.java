@@ -1,5 +1,5 @@
 //Program to demonstrate User Defined Exception class
-package com.tnsif.dayfourteen.synchronization;
+package day14;
 
 public class DepositLimitExceedsException extends Exception {
 

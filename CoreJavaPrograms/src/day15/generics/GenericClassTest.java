@@ -1,5 +1,5 @@
 //Driver Program for user defined generic class
-package com.tnsif.dayfifteen.generics;
+package day15;
 
 public class GenericClassTest {
 

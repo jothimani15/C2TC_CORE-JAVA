@@ -1,5 +1,5 @@
 //Program to demonstrate InterThread Communication - Producer Thread Class
-package com.tnsif.dayfourteen.interthreadcommunication;
+package day14;
 
 public class Producer extends Thread {
 	Q obj;

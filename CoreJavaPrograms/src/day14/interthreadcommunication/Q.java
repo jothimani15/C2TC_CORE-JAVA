@@ -1,5 +1,5 @@
 //Service class
-package com.tnsif.dayfourteen.interthreadcommunication;
+package day14;
 
 public class Q {
 	int n;

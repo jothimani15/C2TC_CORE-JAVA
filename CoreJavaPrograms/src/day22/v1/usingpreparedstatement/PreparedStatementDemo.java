@@ -1,5 +1,5 @@
 //Program to demonstrate PreparedStatement 
-package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
+package day22;
 
 import java.sql.SQLException;
 import java.util.Scanner;

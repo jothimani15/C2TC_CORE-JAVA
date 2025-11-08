@@ -1,5 +1,5 @@
 //Program to demonstrate Functional Interface
-package com.tnsif.daynineteen;
+package day19;
 
 @FunctionalInterface
 interface IsOdd{

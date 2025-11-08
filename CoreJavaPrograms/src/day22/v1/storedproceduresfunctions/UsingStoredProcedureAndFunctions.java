@@ -1,5 +1,5 @@
 //Program to demonstrate stored procedure and functions
-package com.tnsif.daytwentytwo.v1.storedproceduresfunctions;
+package day22;
 
 import java.sql.SQLException;
 

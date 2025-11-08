@@ -1,5 +1,5 @@
 //Program to demonstrate class to use user defined annotations 
-package com.tnsif.daytwentyone.userdefinedannotation;
+package day21;
 
 @SmartTV(os = "android", height = 40, width = 50)
 @SmartPhone()

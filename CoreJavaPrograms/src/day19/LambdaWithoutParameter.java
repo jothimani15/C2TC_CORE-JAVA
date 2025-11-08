@@ -1,5 +1,5 @@
 //Program to demonstrate Lambda expression without parameters
-package com.tnsif.daynineteen;
+package day19;
 
 public class LambdaWithoutParameter {
 

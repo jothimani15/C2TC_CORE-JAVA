@@ -1,6 +1,6 @@
 //Program to demonstrate Student entity  
 
-package com.tnsif.dayfifteen.userdefinedobjects;
+package day15;
 
 public class Student {
 	private int rollNo;

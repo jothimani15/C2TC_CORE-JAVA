@@ -1,5 +1,5 @@
 //Program to demonstrate TreeSet class
-package com.tnsif.dayeighteen;
+package day18;
 
 import java.util.Set;
 import java.util.SortedSet;

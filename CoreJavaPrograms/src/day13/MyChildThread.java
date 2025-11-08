@@ -1,5 +1,5 @@
 //Program to define ChildThread 
-package com.tnsif.daythirteen;
+package day13;
 
 public class MyChildThread extends Thread {
 	@Override

@@ -1,5 +1,5 @@
 //Program to demonstrate using user defined annotations
-package com.tnsif.daytwentyone.userdefinedannotation;
+package day21;
 
 import java.lang.annotation.Annotation;
 

@@ -1,5 +1,5 @@
 //Program to demonstrate PreparedStatement Interface
-package com.tnsif.daytwentytwo.preparedstatementinterface;
+package day22;
 
 
 

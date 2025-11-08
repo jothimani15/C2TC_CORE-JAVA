@@ -1,5 +1,5 @@
 //Driver Program for creating generic class - Sender
-package com.tnsif.dayfifteen.generics;
+package day15;
 
 public class SenderDemo {
 

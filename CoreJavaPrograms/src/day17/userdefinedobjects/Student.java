@@ -1,5 +1,5 @@
 //Program to demonstrate Student entity - overriding of equals and hashcode methods 
-package com.tnsif.dayseventeen.userdefinedobjects;
+package day17;
 
 public class Student {
 	int marks;

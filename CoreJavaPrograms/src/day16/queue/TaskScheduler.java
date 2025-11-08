@@ -1,5 +1,5 @@
 //Program to demonstrate Task Scheduler using Priority Queue
-package com.tnsif.daysixteen.queue;
+package day16;
 
 import java.util.PriorityQueue;
 

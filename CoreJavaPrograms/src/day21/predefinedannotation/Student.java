@@ -1,5 +1,5 @@
 //Program to define Student Entity
-package com.tnsif.daytwentyone.predefinedannotation;
+package day21;
 
 public class Student {
 	int id;

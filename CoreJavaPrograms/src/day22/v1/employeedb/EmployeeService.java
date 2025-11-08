@@ -1,5 +1,5 @@
 //Program to define service class for Employee table
-package com.tnsif.daytwentytwo.v1.employeedb;
+package day22;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

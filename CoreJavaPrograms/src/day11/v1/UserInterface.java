@@ -1,6 +1,6 @@
 //program to demonstrate Index Out of Bounds Exception
 
-package com.tnsif.dayeleven.v1;
+package day11;
 
 public class UserInterface {
 

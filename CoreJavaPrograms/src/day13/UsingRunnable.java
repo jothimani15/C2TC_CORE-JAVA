@@ -1,5 +1,5 @@
 //Program to define implementable class of Runnable interface
-package com.tnsif.daythirteen;
+package day13;
 
 public class UsingRunnable implements Runnable {
 	Thread thread;

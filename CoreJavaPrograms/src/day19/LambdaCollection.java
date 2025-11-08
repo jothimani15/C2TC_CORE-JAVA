@@ -1,5 +1,5 @@
 // Program to demonstrate Lambda expression in collections
-package com.tnsif.daynineteen;
+package day19;
 
 import java.util.ArrayList;
 import java.util.Collections;

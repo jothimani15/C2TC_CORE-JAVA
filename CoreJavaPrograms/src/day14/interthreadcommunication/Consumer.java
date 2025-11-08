@@ -1,5 +1,5 @@
 //Program to demonstrate InterThread Communication - Consumer Thread Class
-package com.tnsif.dayfourteen.interthreadcommunication;
+package day14;
 
 public class Consumer extends Thread {
 	Q obj; 

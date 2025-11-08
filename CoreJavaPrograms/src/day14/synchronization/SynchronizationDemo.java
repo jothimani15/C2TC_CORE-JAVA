@@ -1,5 +1,5 @@
 //Program to demonstrate Thread Synchronization
-package com.tnsif.dayfourteen.synchronization;
+package day14;
 
 public class SynchronizationDemo {
 

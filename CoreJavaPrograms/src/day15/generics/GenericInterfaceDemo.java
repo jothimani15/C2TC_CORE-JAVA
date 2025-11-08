@@ -1,5 +1,5 @@
 //Driver Program for generic interface
-package com.tnsif.dayfifteen.generics;
+package day15;
 
 public class GenericInterfaceDemo {
 

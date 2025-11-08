@@ -1,5 +1,5 @@
 //Program to demonstrate Bank interface
-package com.tnsif.dayfourteen.synchronization;
+package day14;
 
 public interface Bank {
 	int MINBAL=5000; //fields are static and final

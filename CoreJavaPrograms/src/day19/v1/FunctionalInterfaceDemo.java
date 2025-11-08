@@ -1,5 +1,5 @@
 //Using Inbuilt types of Functional Interfaces
-package com.tnsif.daynineteen.v1;
+package day19;
 
 import java.util.function.BiFunction;
 import java.util.function.Consumer;

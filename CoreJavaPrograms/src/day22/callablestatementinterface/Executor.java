@@ -1,5 +1,5 @@
 //Program to demonstrate Callable Statement Interface
-package com.tnsif.daytwentytwo.callablestatementinterface;
+package day22;
 
 public class Executor {
 

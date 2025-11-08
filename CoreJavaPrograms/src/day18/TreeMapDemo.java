@@ -1,5 +1,5 @@
 //Program to demonstrate TreeMap
-package com.tnsif.dayeighteen;
+package day18;
 
 import java.util.Comparator;
 import java.util.TreeMap;
